@@ -2,7 +2,7 @@
 
 namespace MyFirstApp5
 {
-    public static class Car
+    public static class ship
     {
         public static string color;
 

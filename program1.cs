@@ -4,13 +4,8 @@ namespace MyFirstApp1
 {
     public static class Program1
     {
-        public static void PrintUserInfo()
+        public static void PrintUserInfo(string name, int age, double height, bool isStudent, char grade)
         {
-            int age = 20;
-            double height = 1.75;
-            bool isStudent = true;
-            char grade = 'A';
-            string name = "sepehr";
 
             Console.WriteLine("name: " + name);
             Console.WriteLine("age: " + age);

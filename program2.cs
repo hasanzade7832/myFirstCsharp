@@ -4,9 +4,8 @@ namespace MyFirstApp2
 {
     class Program2
     {
-        public static void CheckAge()
+        public static void CheckAge(int age)
         {
-            int age = 20;
 
             if (age >= 18)
             {
