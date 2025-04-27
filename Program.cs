@@ -13,6 +13,11 @@ using MyFirstApp11;
 using MyFirstApp12;
 using MyFirstApp13;
 using MyFirstApp14;
+using MyFirstApp15;
+using MyFirstApp16;
+using MyFirstApp17;
+using MyFirstApp18;
+using MyFirstApp19;
 
 
 namespace MyFirstApp
@@ -88,8 +93,60 @@ namespace MyFirstApp
 
             //13 چون پدر هست نمیخاد استفاده بشه ازش
             //14 virtual - override
-            Carss myCar = new Carss();
-            myCar.Drive();
+            //Carss myCar = new Carss();
+            //myCar.Drive();
+
+            // برنامه 16: استفاده از ارث‌بری Animal برای Dog و Cat
+            //Dog myDog = new Dog();
+            //myDog.Speak(); // خروجی: Dog barks!
+
+            //Cat myCat = new Cat();
+            //myCat.Speak(); // خروجی: Cat meows!
+
+            //Console.WriteLine("--- تست با OVERRIDE ---");
+            //Animals myDogAsAnimal = new Dogs();   
+            //myDogAsAnimal.Speak();               
+            //Console.WriteLine();
+
+            //Console.WriteLine("--- تست با NEW ---");
+            //Animals myCatAsAnimal = new Cats();    
+            //myCatAsAnimal.Speak();               
+
+            //Console.WriteLine();
+
+            //Console.WriteLine("--- تست مستقیم با شیء واقعی ---");
+            //Cat myRealCat = new Cat();         
+            //myRealCat.Speak();
+
+            //18
+            //Employee emp1 = new Employee();
+            //Employee emp2 = new Manager();
+            //Employee emp3 = new Worker();
+
+            //Console.WriteLine("📋 نتیجه صدا زدن CalculateSalary:");
+
+            //emp1.CalculateSalary(); // رفتار خود Employee
+            //emp2.CalculateSalary(); // رفتار Manager واقعی
+            //emp3.CalculateSalary(); // رفتار Worker واقعی
+
+            //19
+
+            Vehicles v1 = new Vehicles();
+            Vehicles v2 = new Carsss();
+            Vehicles v3 = new Airplane();
+            Airplane realPlane = new Airplane();
+
+            Console.WriteLine("📋 تست متد Move() برای انواع Vehicle:");
+
+            v1.Move(); // Vehicle is moving...
+            v2.Move(); // Car is driving on the road. (override شده)
+            v3.Move(); // Vehicle is moving... (چون new استفاده شده و نوع متغیر Vehicle است ❌)
+
+            Console.WriteLine();
+            Console.WriteLine("📋 تست مستقیم با Airplane واقعی:");
+            realPlane.Move(); // Airplane is preparing for flight on runway. (چون مستقیم نوع Airplane است ✅)
+            realPlane.Fly();  // Airplane is flying in the sky! (متد جدید Fly مخصوص Airplane)
+
         }
     }
 }

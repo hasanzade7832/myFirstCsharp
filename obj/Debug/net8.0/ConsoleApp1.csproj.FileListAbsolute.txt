@@ -35,3 +35,18 @@ C:\Users\Najmprog1\Desktop\سی شارپ\obj\Debug\net8.0\refint\ConsoleApp1.dll
 C:\Users\Najmprog1\Desktop\سی شارپ\obj\Debug\net8.0\ConsoleApp1.pdb
 C:\Users\Najmprog1\Desktop\سی شارپ\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\Najmprog1\Desktop\سی شارپ\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\ASUS\Desktop\New folder (4)\myFirstCsharp\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\New folder (4)\myFirstCsharp\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\New folder (4)\myFirstCsharp\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\New folder (4)\myFirstCsharp\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\New folder (4)\myFirstCsharp\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+C:\Users\ASUS\Desktop\New folder (4)\myFirstCsharp\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\ASUS\Desktop\New folder (4)\myFirstCsharp\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\ASUS\Desktop\New folder (4)\myFirstCsharp\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\ASUS\Desktop\New folder (4)\myFirstCsharp\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\ASUS\Desktop\New folder (4)\myFirstCsharp\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\ASUS\Desktop\New folder (4)\myFirstCsharp\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\ASUS\Desktop\New folder (4)\myFirstCsharp\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\ASUS\Desktop\New folder (4)\myFirstCsharp\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\ASUS\Desktop\New folder (4)\myFirstCsharp\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\New folder (4)\myFirstCsharp\obj\Debug\net8.0\ref\ConsoleApp1.dll
